@@ -38,6 +38,7 @@ social_media:
   twitter: derigormortis
   # youtube: your_username
   # vk: your_username
+  gitlab: itothegore
 
 topics:
   - name: CSS
